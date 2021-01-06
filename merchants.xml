@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+    <channel>
+        <title>Bonecos para Treinamento de Goleiro</title> 
+        <link>https://bonecotreinogoleiro.com.br</link> 
+        <description>Boneco inflavel inova a forma de goleiros treinar</description> 
+        <item> 
+            <title>Bonecos Inflável para Treinamento profissional de Goleiro </title> 
+            <link>https://bonecotreinogoleiro.com.br/index.html</link> 
+            <description>Feito de PVC pneumático com espessura de 0,58mm, medindo 1,85mt de altura, 2kgs de peso estampa</description>
+            <g:image_link>https://bonecotreinogoleiro.com.br/boneco-treino-goleiro-profissional.jpg</g:image_link> 
+            <g:price>350</g:price> 
+            <g:condition>novo</g:condition> 
+            <g:id>1a</g:id>
+        </item> 
+    </channel> 
+</rss>
